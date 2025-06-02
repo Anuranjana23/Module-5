@@ -1,6 +1,6 @@
 # Exp.No:5(b)	Destructor
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To create  a  Python Class Student with a destructor.
