@@ -1,6 +1,6 @@
 # Exp.No:5(c)	Multiple Inheritance
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To Write a Python program to get the name, attendance and Id of a student and check they are eligible for Next Module using multiple inheritance, attendance >80 eligible student else Not Eligible student
