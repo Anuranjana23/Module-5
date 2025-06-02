@@ -1,6 +1,6 @@
 # Exp.No:5(a)	Constructors- Parameterized Constructor
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To write a Python code to create a Class for a Person with the parameterised constructor which will take the name and userid of the person as parameters print the userid  of the person,
 ### ALGORITHM
